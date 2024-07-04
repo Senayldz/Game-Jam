@@ -6,10 +6,8 @@ Escape from Time, zaman yolculuğu temalı bir macera ve bilgi oyunudur. Oyuncul
 
 ## Özellikler
 
-- **Zaman Yolculuğu:** Farklı dönemlerde geçen bölümler.
 - **Bilgi Soruları:** Her bölümde karşınıza çıkan sorulara doğru cevap vererek puan kazanma.
-- **Zengin Grafikler ve Ses Efektleri:** Her dönem için özel olarak tasarlanmış görseller ve sesler.
-- **Zorlu Bulmacalar:** Her bölümde sizi bekleyen çeşitli zorluklar.
+- **Zengin Grafikler ve Ses Efektleri:** Özel olarak tasarlanmış görseller ve sesler.
 - **Hikaye:** Zaman yolculuğunun derin bir hikayesi ve karakter gelişimi.
 
 ## Oynanış
@@ -22,3 +20,8 @@ Escape from Time, zaman yolculuğu temalı bir macera ve bilgi oyunudur. Oyuncul
 ## Geliştirme Süreci
 
 Escape from Time, takım arkadaşlarımızla birlikte Google Oyun ve App Uygulama Akademisi'nin Game Jam etkinliği sırasında iki gün içinde geliştirildi. Konsept belirlendikten sonra, her bir takım üyesi farklı bir alanda çalışarak oyunun tamamlanmasına katkıda bulundu.
+
+## Video Tanıtımı
+
+Oyunla ilgili daha fazla bilgi almak için tanıtım videomuzu izleyebilirsiniz:
+[Escape from Time Tanıtım Videosu](https://youtu.be/6oqMudfg8P4?si=Js6VQqE7p_cuk9id)
