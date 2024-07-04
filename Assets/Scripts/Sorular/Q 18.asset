@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e62b24f2bca0444a56f6e420121df8, type: 3}
+  m_Name: Q 18
+  m_EditorClassIdentifier: 
+  questionText: "Hangi dizi, Orta\xE7a\u011F \u0130ngiltere'sinde Kral Arthur ve
+    Yuvarlak Masa \u015E\xF6valyeleri'nin  maceralar\u0131n\u0131 anlatan bir epik
+    drama dizisidir?"
+  answers:
+  - The  Umbrella Academy
+  - Merlin
+  - Suits
+  - 'How I Met Your Mother '
+  correctAnswerIndex: 1

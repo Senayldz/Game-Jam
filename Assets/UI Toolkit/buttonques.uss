@@ -1,0 +1,10 @@
+.main-button-ques {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-left: 0;
+    margin-left: 0;
+    justify-content: flex-start;
+    max-width: 200px;
+    max-height: 200px;
+}

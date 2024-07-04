@@ -1,0 +1,12 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/button.uss?fileID=7433441132597879392&amp;guid=5ce87e36b23e1a145bf25bd84e24eb01&amp;type=3#button" />
+    <Style src="project://database/Assets/UI%20Toolkit/label.uss?fileID=7433441132597879392&amp;guid=cc1b208cff462814fa2b60e8bcd103d8&amp;type=3#label" />
+    <ui:VisualElement name="bg" style="height: 312px; flex-grow: 1;">
+        <ui:VisualElement style="flex-grow: 1; height: 1068px; width: 516px; background-color: rgba(255, 255, 255, 0); justify-content: center; align-items: stretch; flex-direction: column;">
+            <ui:Label text="Escape From Time" display-tooltip-when-elided="true" class="label-main-tittle" style="white-space: normal; -unity-text-align: upper-center; flex-direction: column; -unity-font-style: bold; font-size: 70px; justify-content: center; top: -85px; bottom: auto; color: rgb(255, 255, 255);" />
+            <ui:Button text="Başlat" display-tooltip-when-elided="true" name="Start" class="button-main" />
+            <ui:Button text="Ekip U-2" display-tooltip-when-elided="true" name="Credits" class="button-main" />
+            <ui:Button text="Oyundan Çık" display-tooltip-when-elided="true" name="Quit" class="button-main" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

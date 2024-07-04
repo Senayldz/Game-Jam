@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e62b24f2bca0444a56f6e420121df8, type: 3}
+  m_Name: Q 1
+  m_EditorClassIdentifier: 
+  questionText: "Hangi oyun, 1980'lerin klasik bir arcade oyununda, bir yarat\u0131\u011F\u0131
+    yemeye \xE7al\u0131\u015Fan bir sar\u0131  yuvarlak karakterin maceralar\u0131n\u0131
+    konu almaktad\u0131r? "
+  answers:
+  - Pac-Man
+  - Mario
+  - 101 Okey
+  - Monkey
+  correctAnswerIndex: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e62b24f2bca0444a56f6e420121df8, type: 3}
+  m_Name: Q 10
+  m_EditorClassIdentifier: 
+  questionText: "Hangi film, 1972 y\u0131l\u0131nda En \u0130yi Film, En \u0130yi
+    Y\xF6netmen ve En \u0130yi Erkek Oyuncu dahil olmak  \xFCzere 5 dalda Oscar kazanm\u0131\u015Ft\u0131r?"
+  answers:
+  - The Godfather
+  - Platoon
+  - Thirteen Days
+  - 'Dredd '
+  correctAnswerIndex: 0

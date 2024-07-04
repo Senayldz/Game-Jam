@@ -1,0 +1,14 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement name="bgcredtis" style="flex-grow: 1; -unity-text-align: upper-left; white-space: nowrap; background-color: rgb(0, 0, 0);">
+        <ui:VisualElement name="bgbutton" style="flex-grow: 1; width: 391px; align-items: center; flex-direction: column-reverse; justify-content: flex-end; -unity-text-align: middle-left; height: -425px; -unity-background-scale-mode: stretch-to-fill; white-space: normal; flex-shrink: 1; top: auto; position: relative;">
+            <ui:Button text="Menü" display-tooltip-when-elided="true" name="Back" class="button-main" style="top: auto;" />
+        </ui:VisualElement>
+        <ui:VisualElement style="flex-shrink: 0; flex-grow: 1; top: -138px; height: 649px; width: 1916px;">
+            <ui:Label text="Beyazıt Kaygı" display-tooltip-when-elided="true" class="label-title" />
+            <ui:Label text="Emirhan Şahin" display-tooltip-when-elided="true" class="label-title" />
+            <ui:Label text="Esra Mermer" display-tooltip-when-elided="true" class="label-title" />
+            <ui:Label text="Ezgi Balkanoğlu" display-tooltip-when-elided="true" class="label-title" />
+            <ui:Label text="Sena Yıldız" display-tooltip-when-elided="true" class="label-title" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

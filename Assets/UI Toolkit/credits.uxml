@@ -1,0 +1,16 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/label2.uss?fileID=7433441132597879392&amp;guid=f5bb7840b23287f4ead14d2be31d73c3&amp;type=3#label2" />
+    <Style src="project://database/Assets/UI%20Toolkit/button.uss?fileID=7433441132597879392&amp;guid=5ce87e36b23e1a145bf25bd84e24eb01&amp;type=3#button" />
+    <ui:VisualElement name="bgcredtis" style="flex-grow: 1; -unity-text-align: upper-left; white-space: nowrap; background-color: rgb(0, 0, 0);">
+        <ui:VisualElement name="bgbutton" style="flex-grow: 1; width: 391px; align-items: center; flex-direction: column-reverse; justify-content: flex-end; -unity-text-align: middle-left; height: -425px; -unity-background-scale-mode: stretch-to-fill; white-space: normal; flex-shrink: 1; top: auto; position: relative;">
+            <ui:Button text="Menü" display-tooltip-when-elided="true" name="Back" class="button-main" style="top: auto;" />
+        </ui:VisualElement>
+        <ui:VisualElement style="flex-shrink: 0; flex-grow: 1; top: -138px; height: 649px; width: 1916px;">
+            <ui:Label text="Beyazıt Kaygı" display-tooltip-when-elided="true" class="label-title" />
+            <ui:Label text="Emirhan Şahin" display-tooltip-when-elided="true" class="label-title" />
+            <ui:Label text="Esra Mermer" display-tooltip-when-elided="true" class="label-title" />
+            <ui:Label text="Ezgi Balkanoğlu" display-tooltip-when-elided="true" class="label-title" />
+            <ui:Label text="Sena Yıldız" display-tooltip-when-elided="true" class="label-title" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
