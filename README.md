@@ -1,5 +1,3 @@
-# Game-Jam
-Google Oyun Akademisi Game Jam. Takım arkadaşlarımla 2 günde 
 # Escape from Time
 
 ## Proje Açıklaması
